@@ -13,8 +13,9 @@
 ## 📌 Projects
 - Employee Management System
 - Zerodha Clone
-- Portfolio Website
-- Weather App
+- Blog Website
+- Smart Admission Tracking System
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/vishal1722
+- LinkedIn: https://www.linkedin.com/in/vishal-thakare-52911b249
